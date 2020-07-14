@@ -1,7 +1,12 @@
+html {
+  background-image: url("public/assets/burger_background.jpg");
+  background-size: cover;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  
 }
 
 .label {
@@ -17,6 +22,18 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
-body {
-  background: slategray;
+
+#menus {
+  padding: 2%;
+  margin: 2%;
+  border: 1px solid #aaaaaa;
+  border-radius: 3px;
+  position: relative;
+  box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  float: left;
+  width: 28%;
+  margin-right: 1%;
+  margin-bottom: 20px;
+  margin-left: 1%;
 }
