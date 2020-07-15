@@ -4,7 +4,7 @@
   
   ## Description
   
-  This application uses mysql and inquirer to create and manage an employee database CLI. 
+  This application uses MySQL, Node, Express, Handlebars and an ORM to create a burger devouring device. 
   
   ---
   
